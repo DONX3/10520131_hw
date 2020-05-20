@@ -1,7 +1,7 @@
 # 10520131_final_project
  PUBG輸贏影響因子分析  
 
-數據打算用這個網站提供的[連結](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview "https://www.kaggle.com/c/pubg-finish-placement-prediction/overview")  
+數據打算用這個網站提供的[https://www.kaggle.com/c/pubg-finish-placement-prediction/overview](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview "https://www.kaggle.com/c/pubg-finish-placement-prediction/overview")  
 ![GITHUB](資料源網站截圖.png)  
 
 檔案有三個  
