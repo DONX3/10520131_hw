@@ -1,10 +1,12 @@
-# 10520131_hw
- just a homework  
-20200520到此一遊  
-這裡是簡介  
-有各式各樣的個資喔!  
-```r
-#只有註解的R
-```
- 
+# 10520131_final_project
+ PUBG輸贏影響因子分析  
 
+
+資料源網站截圖  
+![GITHUB](資料源網站截圖.png)  
+
+這是資料源的[連結](https://www.kaggle.com/c/pubg-finish-placement-prediction/overview "Title")  
+
+
+ 
+ 
