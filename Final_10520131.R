@@ -1,5 +1,4 @@
 rm(list=ls())
-library(DT)
 library(ggplot2)
 
 #選擇工作路徑
@@ -36,6 +35,11 @@ if (is.na(p)) {
   length(solo_or_squad_fpp_data[,1])
   
   #繪圖
+  #大概介紹用到的函式
+  #ggplot 生成畫布和指定數據集和xy軸對應欄位
+  #geom_point 將座標畫上畫布
+  #geom_histogram 數量分布圖
+
   #solo_fpp_walkDistance_damageDealt.png
   ggplot(solo_fpp_data, aes(x = walkDistance, y = damageDealt)) + geom_point(size = 1)
   
