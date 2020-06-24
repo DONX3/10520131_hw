@@ -2,7 +2,7 @@ rm(list=ls())
 library(ggplot2)
 
 #選擇工作路徑
-p <- choose.dir(,"請選擇下列檔案所在資料夾\n data2015.csv\tdata2016.txt\tdata2017.xlsx")
+p <- choose.dir(,"請選擇資料所在資料夾\n")
 if (is.na(p)) {
   print("Byebye~")
 } else {
